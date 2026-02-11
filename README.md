@@ -9,9 +9,9 @@
 
 <div align="center">
 
-| **About Me** | **Avatar** |
+| **Contact & Portfolio** | **Avatar** |
 | :--- | :---: |
-| 🔭 Working on: [**Website-Ecommerce**](https://github.com/hoangnam150303/Website-Ecommerce)<br>🌱 Learning: **React Native, Spring Boot**<br>💬 Ask me about: **C# .NET, NodeJs, ReactJS**<br>📫 Email: **hoangnam150303@gmail.com**<br>📄 **[View My CV](https://drive.google.com/file/d/1mN_Y-cSOk-0hJ80o6-tePM5G5GDuP8WN/view?usp=drive_link)** | <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="250" /> |
+| <br>📫 **Email:** <br> [hoangnam150303@gmail.com](mailto:hoangnam150303@gmail.com)<br><br>📺 **My YouTube Channel:** <br> [**No Code No Life**](LINK_KENH_YOUTUBE_CUA_BAN)<br><br>📄 **Curriculum Vitae:** <br> [**View My CV**](https://drive.google.com/file/d/1mN_Y-cSOk-0hJ80o6-tePM5G5GDuP8WN/view?usp=drive_link)<br><br> | <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="250" /> |
 
 </div>
 
