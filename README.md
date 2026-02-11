@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334D6&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Passionate+about+.NET+%26+React;Love+Football%2C+Cooking+%26+Painting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334D6&center=true&vCenter=true&width=435&lines=Passionate+about+Coding;Love+Football%2C+Cooking+%26+Painting" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,5 +54,4 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hoangnam150303&label=Profile%20views&color=0e75b6&style=flat-square" alt="hoangnam150303" /> 
-</p>
+  <img src="https://komarev.com/ghpvc/?username=hoangnam150303&label=Profile%20views&color=0e75b6&style=flat-square"
